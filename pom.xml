@@ -19,8 +19,8 @@
     <dependencies>
         <dependency>
             <groupId>Tesbo</groupId>
-            <artifactId>Tesbo-Dev</artifactId>
-            <version>0.0.6.17</version>
+            <artifactId>Tesbo-Beta</artifactId>
+            <version>0.0.6.4</version>
         </dependency>
     </dependencies>
 
